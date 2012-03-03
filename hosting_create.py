@@ -18,7 +18,7 @@ CHMOD          = 0775
 
 MYSQL_HOST     = "localhost"
 MYSQL_USERNAME = "root"
-MYSQL_PASSWORD = "slampasswd"
+MYSQL_PASSWORD = ""
 MYSQL_DB       = "proftpd"
 
 # connect to mysql --------------------------------------------------------------
